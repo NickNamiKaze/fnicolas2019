@@ -2,7 +2,7 @@
 - 👀 I’m interested in techonoly
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me via email @fnicolas2019@fau.edu
+- 📫 How to reach me via email @francesconicolas99@gmail.com
 
 <!---
 fnicolas2019/fnicolas2019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
